@@ -22,9 +22,9 @@ I am a final-year Data Science student at COMSATS University Islamabad. I am dee
 
 ---
 
-### GitHub Stats
-![Shahab's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahabhassank&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahabhassank&layout=compact&theme=radical)
+### 📊 GitHub Stats
+![Shahab's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=shahabhassank&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shahabhassank&layout=compact&theme=radical)
 
 ---
 
