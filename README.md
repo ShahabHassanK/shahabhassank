@@ -2,7 +2,7 @@
 
 ### Data Scientist | AI/ML | Sports Analytics
 
-I am a final-year Data Science student at COMSATS University Islamabad. I am deeply passionate about the mathematical foundations of Machine Learning and Neural Networks, and I enjoy applying these concepts to solve complex problems in real-world systems.
+BS Data Science from COMSATS University Islamabad. I am deeply passionate about the mathematical foundations of Machine Learning and Neural Networks, and I enjoy applying these concepts to solve complex problems in real-world systems.
 
 ---
 
